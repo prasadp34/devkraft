@@ -1,0 +1,41 @@
+body {
+background-color: #EADEDE;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1{
+  font-family: "Sacramento",cursive;
+  font-size: 50px;
+  margin-left: 650px;
+  color: #3E497A;
+}
+.icons{
+  position: absolute;
+  margin-left: 650px;
+  font-size: 50px;
+  margin-top: 400px;
+  
+
+
+}
+.p1{
+font-size: 40px;
+color: #333C83;
+}
+.p2{
+  font-size: 40px;
+  color: #333C83;
+}
+.p3{
+  font-size: 40px;
+  color: #333C83;
+}
+
+
+
+
+ 
